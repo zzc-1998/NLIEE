@@ -1,8 +1,6 @@
 % Input:  (1) img1: low-light image
 %         (2) img2: enhacned image
 % Output: (1) score: the quality score
-% Usage:  Given a haze image img1 and a dehaze image img2, whose dynamic range is 0-255
-%         quality_score = DHQI(img1,img2);
 %% 
 %  Please make sure that 
 %  demo.m, estimateggdparam.m, NLIEE_features.m, NLIEE_SVR.m, and file SVR
