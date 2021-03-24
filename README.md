@@ -9,6 +9,6 @@ quality_score = NLIEE_SVR(img1,img2)
   
 The current model under folder "SVR" is trained on the whole LIEA database.
 
-#Citation
+# Citation
 If you find our work useful, please cite our paper as:
 
