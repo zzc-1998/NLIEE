@@ -1,10 +1,10 @@
 # NLIEE
 This is the code for the paper "A No-reference Evaluation Metric for Low-light Image Enhancement ".
 # Run Code
-demo.m \\
-% Input:  (1) img1: low-light image
-%         (2) img2: enhacned image
-% Output: (1) score: the quality score
+demo.m   
+% Input:  (1) img1: low-light image  
+%         (2) img2: enhacned image  
+% Output: (1) score: the quality score  
 % Usage:  Given a haze image img1 and a dehaze image img2, whose dynamic range is 0-255
 %         quality_score = DHQI(img1,img2);
 %% 
