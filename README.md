@@ -15,13 +15,13 @@ The current model under folder "SVR" is trained on the whole LIEA database from 
 If you find our work useful, please cite our paper as:
 ```
 @INPROCEEDINGS{lowlight2021zhang 
-author={Zhang, Zicheng and Sun, Wei and Min, Xiongkuo and Zhu, Wenhan and Wang, Tao and Lu, Wei and Zhai, Guangtao},  
-booktitle={2021 IEEE International Conference on Multimedia and Expo (ICME)},  
-title={A No-Reference Evaluation Metric for Low-Light Image Enhancement},  
-year={2021},  
-volume={},  
-number={}, 
-pages={1-6}, 
-doi={10.1109/ICME51207.2021.9428312}}
+               author={Zhang, Zicheng and Sun, Wei and Min, Xiongkuo and Zhu, Wenhan and Wang, Tao and Lu, Wei and Zhai, Guangtao},  
+               booktitle={2021 IEEE International Conference on Multimedia and Expo (ICME)},  
+               title={A No-Reference Evaluation Metric for Low-Light Image Enhancement},  
+               year={2021},  
+               volume={},  
+               number={}, 
+               pages={1-6}, 
+               doi={10.1109/ICME51207.2021.9428312}}
 ```
 
